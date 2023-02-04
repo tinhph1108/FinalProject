@@ -2,7 +2,7 @@
 String githubUrl = "https://github.com/tinhph1108/FinalProject"
 
 //Kaynak kodun içerisindeki projenin ismi
-String projectName = "MyPhamTrueLife"
+String projectName = "MyPhamTrueLife.Web"
 
 //Kaynak kodun publish edileceği dizin
 //String publishedPath = "MyPhamTrueLife\\TestServer.App\\bin\\Release\\netcoreapp2.2\\publish"
